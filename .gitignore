@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.png
+*.log
+*.env
+.deploy/
