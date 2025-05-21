@@ -58,38 +58,40 @@ This lab demonstrates the deployment of a secure Python FastAPI app using Azure 
 
 ## 📸 Screenshots
 
-### Codigo de API
+### Código da API
 
-![alt text](image.png)
+![Código da API - FastAPI](image.png)
 
-### Web app
+### Web App em Execução
 
-![alt text](image-1.png)
+![Web App](image-1.png)
 
-### API
+### API Publicada
 
-![alt text](image-2.png)
+![API Publicada](image-2.png)
 
-### Recursos
-![alt text](image-4.png)
+### Recursos Visuais no Azure
 
-### API acessivel
+![Recursos no Azure](image-4.png)
 
-![alt text](image-3.png)
+### API Acessível
 
-### Configuracao CORS
-![alt text](image-5.png)
+![API Acessível via navegador](image-3.png)
 
-### Configuracao Inboud
+### Configuração de CORS
 
-![alt text](image-6.png)
+![CORS configurado](image-5.png)
 
-### App Gateway e Permissao
-![alt text](image-9.png)
+### Configuração da Policy Inbound (JWT)
 
-### Postman
+![Policy Inbound - JWT](image-6.png)
 
-![alt text](image-7.png)
+### App Gateway e Permissões da Aplicação
 
-![alt text](image-8.png)
+![Permissões e API Gateway](image-9.png)
 
+### Postman com Autenticação
+
+![Postman - Request com JWT](image-7.png)
+
+![Postman - Headers](image-8.png)
